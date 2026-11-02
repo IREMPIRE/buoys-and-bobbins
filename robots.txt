@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irempire.github.io/buoys-and-bobbins/sitemap.xml
